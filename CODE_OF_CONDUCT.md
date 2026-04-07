@@ -1,0 +1,4 @@
+# CODE_OF_CONDUCT
+
+Covers CODE_OF_CONDUCT.
+
