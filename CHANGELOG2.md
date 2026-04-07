@@ -1,0 +1,4 @@
+# CHANGELOG2
+
+Covers CHANGELOG2.
+
