@@ -1,0 +1,4 @@
+# FAQ
+
+Covers FAQ.
+
