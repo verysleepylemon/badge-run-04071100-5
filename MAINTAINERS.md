@@ -1,0 +1,4 @@
+# MAINTAINERS
+
+Covers MAINTAINERS.
+
